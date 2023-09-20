@@ -43,6 +43,7 @@ Stony Brook University (SUNY), 2021-02 ~ current
 |Class|Note|
 |---|---|
 |Udemy|MySQL virtual Bootcamp|
+|멀티캠퍼스|데이터 분석&엔지니어 취업캠프 30회차|
 |Probability Theory|statistics basic such as random variables, conditional and marginal distributions, multivariate distributions etc|
 |Data Analysis|Require the use of statistical computing package(R)|
 |Statistical Laboratory|Require the use of statisticall computing package(R, SAS)|

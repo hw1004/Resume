@@ -19,4 +19,13 @@ Stony Brook University (SUNY), 2021-02 ~ current
 - 학점: 3.7 / 4.0
 
 
+### 1.3. Skills
+|Skill|Note|
+|---|---|
+|Python||
+|SQL||
+|R||
+|Tableau|
+|Java|
+
 

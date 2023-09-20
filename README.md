@@ -1,7 +1,7 @@
 # Resume
 ## 1. Outline
 ### 1.1. Profile
-이름: 정혜원
+이름: 정혜원(Hyewon Jung)
 
 생년월일: 2002-10-04
 
@@ -15,8 +15,8 @@ Github: https://github.com/hw1004
 ### 1.2. Education
 Stony Brook University (SUNY), 2021-02 ~ current
 
-- 전공: 응용수학통계학
-- 학점: 3.7 / 4.0
+- Major: Applied mathematics and Statistics
+- GPA: 3.7 / 4.0
 
 
 ### 1.3. Skills
@@ -39,3 +39,13 @@ Stony Brook University (SUNY), 2021-02 ~ current
 |Student Research Assistant|Stony Brook University|Research|
 |Statistical Analyst (Part Time)|Demand esttimation, Time series analysis for government-led local projects|R, Excel, research|
 
+### 1.6. Relevant Courses
+|Class|Note|
+|---|---|
+|Udemy|MySQL virtual Bootcamp|
+|Probability Theory|statistics basic such as random variables, conditional and marginal distributions, multivariate distributions etc|
+|Data Analysis|Require the use of statistical computing package(R)|
+|Statistical Laboratory|Require the use of statisticall computing package(R, SAS)|
+|App software for Information Management|"Russia-Ukraine war impacting supply chain destruction after COVID-19" Excel Project|
+|Computer Science Principles|Python basic|
+|Intro to object-oriented programming|Java basic|

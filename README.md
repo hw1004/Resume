@@ -29,3 +29,9 @@ Stony Brook University (SUNY), 2021-02 ~ current
 |Java|
 
 
+### 1.4. Experiences
+|Experience|Note|Skill|
+|---|---|---|
+|Undergraduate Teachiing Assistant|AMS 210 Applied Linear Algebra, AMS 261 Multivariable Calculus|Python, Communication|
+|Student Research Assistant|Stony Brook University|Research|
+|Statistical Analyst (Part Time)|Demand esttimation, Time series analysis for government-led local projects|R, Excel, research|

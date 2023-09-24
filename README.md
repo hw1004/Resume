@@ -22,9 +22,11 @@ Stony Brook University (SUNY), 2021-02 ~ current
 ### 1.3. Skills
 |Skill|Note|
 |---|---|
-|Python||
-|SQL||
-|R||
+|Python|
+|Git|
+|HTML/CSS|
+|SQL|
+|R|
 |Tableau|
 |Java|
 
